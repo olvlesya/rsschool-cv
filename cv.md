@@ -11,6 +11,27 @@ I'm a beginner developer. I worked as a network engineer and now I want to get e
 
 Javascript, HTML, CSS, React, git, network equipment configuration.
 
+#### Experience
+
+##### NTS-Tomsk
+
+_10.2012 - 12.2018_
+**Technical Support specialist**
+
+- Network equipment configuration
+- Clients network troubleshooting
+- Troubleshooting of network nodes
+- Cooperation on troubleshooting with network engineers
+- Configuring connection of new clients
+- IP-telephony maintenance
+
+_08.2011 - 10.2012_
+**Service call-center specialist**
+
+- Network queries classification and handling
+- Working with network installers
+- Fixing network and cable TV outage
+
 #### Education
 
 **Tomsk State University of Control Systems and Radioelectronics**
