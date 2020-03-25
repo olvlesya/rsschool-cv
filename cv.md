@@ -1,5 +1,7 @@
 ## Olesia Nikonova
 
+![photo](./avatar.jpg)
+
 Github: [olvlesya](https://github.com/olvlesya)
 Email: [lesyonoknou@gmail.com](lesyonoknou@gmail.com)
 
